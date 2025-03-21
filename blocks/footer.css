@@ -1,0 +1,13 @@
+.footer {
+  display: flex;
+  max-width: 1280px;
+  margin: auto;
+  width: 100%;
+  padding: 60px 0;
+}
+
+.footer__copyright {
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
